@@ -10,7 +10,7 @@ In graphic design, a pull quote (also known as a lift-out pull quote) is a key p
 
 demo of the attachement link 
 
-[cheatsheet](https://github.com/insightforum/blog/blob/master/attachement/markdown-cheatsheet-online.pdf)
+[cheatsheet](https://github.com/insightforum/blog/raw/master/attachement/markdown-cheatsheet-online.pdf)
 
 Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
 
